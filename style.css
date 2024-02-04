@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Be Vietnam Pro",sans-serif;
+    scroll-behavior: smooth;
     
 }
 #wrapper{
@@ -311,4 +312,8 @@ a{
 .submit-icon{
     padding: 0 1rem;
     font-size: 1.5rem;
+}
+.bg-img{
+    background-image: linear-gradient(to right,white 30% ,rgb(73, 197, 214));
+
 }

@@ -1,0 +1,31 @@
+.box{
+    border: 1px solid black;
+    height: 70px;
+    width:100%;
+    padding-top:41px ;
+    background-image: linear-gradient( to top ,black, rgb(32, 105, 10),green,rgb(149, 228, 127),green, rgb(32, 105, 10),black);
+    text-align: center;
+    text-shadow: 2px 2px 3px rgb(198, 43, 43);
+    text-shadow: 2px 2px 3px rgb(198, 43, 43),5px 5px 5px blue;
+    color: rgb(80, 92, 103);
+    box-shadow: 1px 7px 7px aqua ;
+}
+.mydiv{
+    border: 1px solid black;
+    margin: 10px;
+    padding-top: 170px;
+    height: 200px;
+    text-align: center;
+    color: rgb(100, 110, 121);
+    text-shadow: 2px 2px 3px rgb(198, 43, 43);
+    text-shadow: 2px 2px 3px rgb(198, 43, 43),5px 5px 5px blue;
+    background-image: radial-gradient(circle,black, rgb(32, 105, 10),green,rgb(149, 228, 127),green, rgb(32, 105, 10),black);
+    box-shadow: 1px 7px 7px aqua ;
+}
+.boxu{
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+    box-shadow: 1px 6px 7px green ;
+
+}
